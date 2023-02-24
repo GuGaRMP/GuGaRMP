@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gugarmp)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gugarmp_)
 
-[![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=gugarmp)](https://github.com/anuraghazra/github-readme-stats)
+[![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=gugarmp&count_private=true)](https://github.com/gugarmp/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugarmp&exclude_repo=github-readme-stats,gugarmp.github.io)](https://github.com/gugarmp/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
